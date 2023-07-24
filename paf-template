@@ -1,0 +1,15 @@
+{
+  "contact": "Place Anime Faction | Discord: https://discord.gg/EDq6KBwRb",
+  "templates": [
+    {
+      "name": "PAF Mural",
+      "sources": [
+       "https://cdn.discordapp.com/attachments/1132132080445300738/1132859974003986462/pixil-frame-0_18.png"
+      ],
+      "x": 738,
+      "y": 856
+    }
+  ],
+  "whitelist": [],
+  "blacklist": []
+}
