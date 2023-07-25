@@ -2,12 +2,44 @@
   "contact": "Place Anime Faction | Discord: https://discord.gg/EDq6KBwRb",
   "templates": [
     {
-      "name": "PAF Mural and allies we would like to try and protect",
+      "name": "PAF Mural",
       "sources": [
-       "https://cdn.discordapp.com/attachments/677199739782955010/1133452323134382221/paftemplate.png"
+       "https://cdn.discordapp.com/attachments/677199739782955010/1133472455621619895/paftemplatemural.png"
+      ],
+      "x": 738,
+      "y": 860
+    },
+    {
+      "name": "Hyouka",
+      "sources": [
+       "https://cdn.discordapp.com/attachments/677199739782955010/1133472455160238181/paftemplatehyouka.png"
       ],
       "x": 167,
+      "y": 339
+    },
+    {
+      "name": "Unit 02",
+      "sources": [
+       "https://cdn.discordapp.com/attachments/677199739782955010/1133472454912782366/paftemplateeva02.png"
+      ],
+      "x": 2799,
+      "y": 97
+    },
+    {
+      "name": "KPop",
+      "sources": [
+       "https://cdn.discordapp.com/attachments/677199739782955010/1133472455390928966/paftemplatekpop.png"
+      ],
+      "x": 1342,
       "y": 89
+    },
+    {
+      "name": "BTD6",
+      "sources": [
+       "https://cdn.discordapp.com/attachments/677199739782955010/1133472454594011186/paftemplatebtd6.png"
+      ],
+      "x": 274,
+      "y": 378
     },
     {
       "name": "Ryuko",
