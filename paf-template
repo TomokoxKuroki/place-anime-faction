@@ -2,12 +2,12 @@
   "contact": "Place Anime Faction | Discord: https://discord.gg/EDq6KBwRb",
   "templates": [
     {
-      "name": "PAF Mural",
+      "name": "PAF Mural and allies we would like to try and protect",
       "sources": [
-       "https://cdn.discordapp.com/attachments/1132132080445300738/1132859974003986462/pixil-frame-0_18.png"
+       "https://cdn.discordapp.com/attachments/677199739782955010/1133383592479817838/paftemplate.png"
       ],
-      "x": 738,
-      "y": 856
+      "x": 167,
+      "y": 340
     }
   ],
   "whitelist": [],
