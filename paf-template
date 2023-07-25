@@ -4,7 +4,7 @@
     {
       "name": "PAF Mural and allies we would like to try and protect",
       "sources": [
-       "https://cdn.discordapp.com/attachments/677199739782955010/1133394445883162715/paftemplate.png"
+       "https://cdn.discordapp.com/attachments/677199739782955010/1133397923888111657/paftemplate.png"
       ],
       "x": 167,
       "y": 89
@@ -14,6 +14,10 @@
     {
       "name": "PlaceHolo",
       "url": "https://raw.githubusercontent.com/blondeel-s/rPlaceHolo/main/overlay.json"
+    }
+    {
+      "name": "Oshi no Ko",
+      "url": "http://ub8qbd.satdump.org/waitroom.json"
     }
   ],
   "blacklist": []
