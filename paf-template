@@ -4,12 +4,17 @@
     {
       "name": "PAF Mural and allies we would like to try and protect",
       "sources": [
-       "https://cdn.discordapp.com/attachments/677199739782955010/1133390098566754384/paftemplate.png"
+       "https://cdn.discordapp.com/attachments/677199739782955010/1133391079056605264/paftemplate.png"
       ],
       "x": 167,
       "y": 89
     }
   ],
-  "whitelist": [],
+  "whitelist": [
+    {
+      "name": "PlaceHalo",
+      "url": "https://raw.githubusercontent.com/blondeel-s/rPlaceHolo/main/overlay.json"
+    }
+  ],
   "blacklist": []
 }
