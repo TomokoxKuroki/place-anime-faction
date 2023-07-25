@@ -8,6 +8,14 @@
       ],
       "x": 167,
       "y": 89
+    },
+    {
+      "name": "Ryuko",
+      "sources": [
+       "https://cdn.discordapp.com/attachments/677199739782955010/1133468228081950781/paftemplateryuko.png"
+      ],
+      "x": 565,
+      "y": 1619
     }
   ],
   "whitelist": [
